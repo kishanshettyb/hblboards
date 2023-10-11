@@ -1,0 +1,32 @@
+[15-Mar-2023 13:49:59 UTC] PHP Fatal error:  Cannot redeclare j8() (previously declared in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2) in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[10-May-2023 07:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function kb;3d9d34dbômaPVHTf˜føÄdS0í4µ1‚½=be’=¬d4d'´e4£a9d3œdb4nZ–FZf2¶8ddÃ?-á449-9d]« 8434-de1d8b33ob:]eZVHPfX¶8´e³-15Ó:() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[14-May-2023 08:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ÄTn4Í844<i¢ƒd9DÉ(dÞ5N±gCŽ³c˜¤nc0-518-4žj8&Ø444'dÏ2Þd2d3ƒÄ
+4KFfC¶8ë8=lož-15?9!4o8x;Ï4-ta2³l2d33dn4NQlHj8f8>dc0-Á5Ñàý4ge8-8"ô4-„gXch8d>3$b4FQhCf7d<4„´0-15!9-4i…8-8:~8-`e'3d=hÃ”"4JCÒX?´c0!5=9->ke8%>4Ô> he23dÃ”Sãd‚„úá·Df=fQ4dc0M15!:‚ôÂU°-<644!de9=n9d.3odÔO<÷ÓÕ4M74dm0í7>)() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[15-May-2023 08:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c9d3<dbùlefbfHëjã0-å19„de8$È´4d'Ä†’3Ô”d93dm4lnJ¬Ö5f84dh>-1919() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[15-Jun-2023 03:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 0-u™4ôe›"h¤”8ðhÅ3ÝD–dc=”b4cFl[ddfHf4?”s0!;311w>¤%è-8414dõ2dId33db4iHÜTd²f(f(4dc€+=%19'ge8-5;”4ŒÅ2ãä9>33dÒ4iØl´dd¦8f7?dÓ0Í5ñ	"„fh88?ÔÞ-dn03Ô9d?6dbiHlTooèf8ödc0½;•19}4deè->®44-dn’3dd:C”b4dAlRod¶8f>4d() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[15-Jun-2023 03:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4dl< 8444-Ôe23Ô9>3d¢4NV½?Ö85df0-156y&8Äe(Z?Ô8ˆ dÕ;() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2
+[28-Jun-2023 08:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function £dnVbG&e4Ädc0-1Q<Ö() in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php(2): a9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/teams/vrwvuroy.php on line 2

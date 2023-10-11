@@ -1,0 +1,48 @@
+[28-Feb-2023 16:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2f50Ù6T=l3d0o5xW8d5jAd9È9U81âeo Ô–10-ä6245b0n4`5875d1¤9Ø41e8%ÁÂec-ä±üîÍ9<:6-8aCjäôræ75dm1d9¨:1¥äâ4Â•c-4f…Ã]4684!5‘0dtd75dËadi99?eˆ-1™nÃ€Ëf1>-)646®å`0d4d5¸=5o5İc„ù89:e<-19hÓ-4f±>-9645a0oí'ï<75d5a:8ùáe8.12om"äf:8-2048½5aÖmüdå˜6Êf5mb”989±e¨!‘2–cäf15-™Î44İ80Ä4Ô38353Ãmjd™Ø9;eÛ-:2%c­4fù0I646EÁ0bd5179dÅaf9xõ1e8/1fÃ&4]2=í96<Æ5ÑàÄ4dÅŒ75d6mdJ˜†1mÀM1‚ec-5¶Qä() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[15-Mar-2023 13:50:01 UTC] PHP Fatal error:  Cannot redeclare u8() (previously declared in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2) in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[06-May-2023 07:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 1eM4]10.éÖ?Æ+6a>T4b675e3SdW¸eÁd9Ò9e¾-4ld*Ğf10+Ùæ?ö 5a0b4e58wÕe6PŸGd¥®d983a¥8|12ucÔ¶40-9646-úa0c;¤µ;756PoWheah95ù1e>-‹2hc!Äf<4í964¦() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[06-May-2023 07:33:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ñ2ecÍ¤f; ´464¶,51 D4o¥475d8rD6Ád9871uˆ 92e`dÄf‘à-™60&=5a>i45;7Um{AFab98=5lÈ÷12ec.Äf10z91”<-5l() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[09-May-2023 07:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 75dÅxBN˜d>849e8'1eÍd?0,É646-5h0ô4}51G5u5s’G8zd9E9áU8-1ùesÄ4–1İ.'å46/8a0A¤ú87;dÊsJ’Had89Ñe4-ñ5oÛ-Nf1=?756’8á0d4cØ8g5¤5ƒõKHÌi97É7Å8ı1?en,4báfí99„8(ÅA094c58×5dÓBˆô81¥¸-1`-?¥Ğ-3“46í4l0n4d287?:½JHoô989;eœí18eé(:f!: 76ƒ6-5a7dddU8;;d;ƒB¾ÿd4ş9ÿ5¨-12ec-4f16-641-5a0dä˜587?”5sBNøadi˜Êâz£.ä¼hn44Æ=9-2†Ç‹ı3a•4d•8—5”2sBNHÑd>01k8í12Åc-46é-96=F-"Q dCdEx7;fu³IşH!d9891e>-¯2ecí4i¹() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[10-May-2023 07:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4f;à-i6”9-å`5d4i5() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[14-May-2023 08:27:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ÄV:<Í964>8 Ô4dÂ,5Ø4gEf‰ï<˜©;e8-2eb-4œ>0&Ù646'5Ë0‰4o58‡•5byDf±d´809i–-12kc!4
+;0y9Ï6-%e0ä<o5875h5gnNmmd9831e8-Á2…ºı4e10-9 ô6-ÕcZ48e557ud5onJfak;<9Ñ²8-12uc-4kÑ0-98~:-1a%d4`9ÇÅ$5c.£fÕI2áe8!2ic->i10%?6Ô< 9a0d4ÅXç5„…ÓŞ•aaa9Q91e8M12u`‚ôÀ¸-=446!5a;j>d5%7>bÕfÕöÒh791k8í79Us() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[15-May-2023 08:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function %4a70() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[15-May-2023 08:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4{109666() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[19-May-2023 09:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9646-Ee_d95875o9JÑd821Åß-52-;j?°İ69ô>(:a?d:d5879d…Kad18518-„2µ$4k10öÉ648}õa0”´dw8¹5„4Fad‰851e=Bâen}9¦1!9>6*Õnd4R5805d5Kjj6˜9Ñõ8>2ihğ4f5?- 64ÖÅapª3Ú5z1å„•‡o973e8d72ch-f1() in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php(2): n9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2
+[12-Jul-2023 09:53:40 UTC] PHP Fatal error:  Cannot redeclare u8() (previously declared in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php:2) in /home/w2ugdjk2xedx/public_html/img/portfolio/doyscofe.php on line 2

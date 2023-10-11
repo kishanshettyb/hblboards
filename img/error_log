@@ -1,0 +1,31 @@
+[15-Mar-2023 13:50:11 UTC] PHP Fatal error:  Cannot redeclare p8() (previously declared in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2) in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[09-May-2023 07:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uÂ„5¥™‹f2S5&QXoWd517c5d±-”4TĞ-d:5&`b¾³!;"d75ù+e4356aá«Wdøğm0ˆÑD4¤d0Í6G56-òh4nÍeâdåybe4X5&b±µGÈ13§³'-ä4Ô0-”×6æ-mf4º-e2Û7=9b¿4>56‘QeÇ‡1wc3«aS1d0M4·:Æ-Bb4ƒ=e2d75™kc6ä1aq%Wo817n() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[10-May-2023 07:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function j5m759be335öjy^YoCd˜1÷“0Taí1´d‹½=16œ=ö243'µ2b§09be›356ŠvT™aMd2á730Än-ä5a0-97¥ bb3c-e2g58de4858Z}TYoGdXá7ã1´^-44†3() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[15-May-2023 08:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bb$o-eùÄ•>9Âe4<5›jWSÓrBJ”(67c0ka-ù4d`m36]½l´c-Hâd7…‰be4:Å¶a{Ó‘íJÔ•1=c0ka-?0„`9766-il4c!e2j5õ9be485vlW±srMJdÈ1‡c0da-{4d1+0§3–bl„c/i2d95Y2o€9>:aXzsMLd8=—c(`-4„¤0í676=!bi4;e>d„6be4() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[19-May-2023 09:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function -e4d59be43;¶GJF4Ø®³¯d+Ä<d;”8†6"ß²9Ó$"$75Yb9Ä856GJBd8‡cp´a-41dğ-Ì=D?Ûbw4c\Âd;>5be4?56DJF‰Í57³2b¡-4;„ğ-”7†&bb4c'å¢nÉ’9röÙ46GJFi;12^P„a’”4e:-:7=©Íbf4c)lBdj‡9le4<5MZFd0>() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[19-May-2023 09:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function :9Ù0óˆ7˜5-bbÔ­Me2d75F’•¥ƒ?6ajZ438?Ó?de-44.:-4766() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
+[22-May-2023 09:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e2ªÕ2oú>4š6jyfŠ‚81?c0db” =d8>;»=·’m4() in /home/w2ugdjk2xedx/public_html/img/sovzyved.php:2
+Stack trace:
+#0 /home/w2ugdjk2xedx/public_html/img/sovzyved.php(2): r9(Array, Array)
+#1 {main}
+  thrown in /home/w2ugdjk2xedx/public_html/img/sovzyved.php on line 2
